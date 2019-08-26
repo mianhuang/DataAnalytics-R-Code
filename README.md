@@ -1,5 +1,5 @@
 # Read Me
-These are the R code for I developed for the Data Analytics Certification Program at University of Texas at Austin.
+These are the R code I developed for the Data Analytics Certification Program at University of Texas at Austin.
 
 brand_preference.R uses completed survey data to develop a model to predict preferred computer brand. 
 The model was applied to incompleted surveys to predict preferred brand.
